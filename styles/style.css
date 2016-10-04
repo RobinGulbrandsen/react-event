@@ -1,0 +1,26 @@
+li:hover {
+  cursor: pointer;
+  font-weight: bold;
+}
+
+.menu {
+  width: 30%;
+  height: 100%;
+  float: left;
+}
+
+.content {
+  width: 65%;
+  min-height: 500px;
+  float: left;
+  background-color: #eee;
+  padding: 10px;
+}
+
+.menu-title {
+  text-align: center;
+}
+
+.wrapper {
+  clear: both;
+}
