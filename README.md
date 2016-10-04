@@ -1,5 +1,7 @@
 ## Intro
 
+Example application for how to pas down events through nesten Components in ReactJS
+
 ## Setup
 
 - npm install
